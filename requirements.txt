@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+pandas
+python-dotenv
+lxml
+webdriver-manager
+nltk
